@@ -6,7 +6,7 @@ public class P08_varArgs {
     // output : merve
 
     public static void main(String[] args) {
-        concat("a","b","d","u","l","l","a","h");
+        concat("e","r","d","e","m","❤️","m","e","h","m","e","t");
     }
 
     public static void concat(String... str){
